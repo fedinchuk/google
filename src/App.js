@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <p>Google Auth Intergration 2</p>
+        <p>Google Auth Intergration</p>
         <span>
           <GoogleLogin
             onSuccess={(credentialResponse) => {
